@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meendex aka Mindaugas Balakauskas
+- 👋 Hi, I’m @Meendex AKA Mindaugas Balakauskas
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on game developement projects
